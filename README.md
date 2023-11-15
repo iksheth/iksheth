@@ -1,6 +1,14 @@
 ### Hi there 👋
 
+[![Karan Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=iksheth&show_icons=true)](https://github.com/iksheth/)
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/iksheth/count.svg" />
+</p>
+
 <!--
+
 **iksheth/iksheth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
